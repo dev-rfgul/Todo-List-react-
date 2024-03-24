@@ -6,9 +6,14 @@
 
 
 
-<h2>Project Screenshots:</h2>
+<h2>💻 Built with</h2>
 
-<img src="" alt="project-screenshot" width="400" height="400/">
+Technologies used in the project:
+
+*   HTML/CSS: Markup and styling for the application.
+*   JavaScript: Programming language used for the logic and functionality.
+*   LocalStorage: Utilized for storing tasks locally in the browser.
+*   React: Front-end library for building user interfaces.
 
   
   
@@ -53,11 +58,3 @@ Contributions are welcome! If you have any ideas for improvement or bug fixes fe
 
   
   
-<h2>💻 Built with</h2>
-
-Technologies used in the project:
-
-*   HTML/CSS: Markup and styling for the application.
-*   JavaScript: Programming language used for the logic and functionality.
-*   LocalStorage: Utilized for storing tasks locally in the browser.
-*   React: Front-end library for building user interfaces.
